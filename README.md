@@ -13,6 +13,7 @@ https://zhuanlan.zhihu.com/p/23167699
 还不会使用 GitHub ？ GitHub 教程来了！万字图文详解 - GitHubPorn的文章 - 知乎
 https://zhuanlan.zhihu.com/p/369486197
 
+#3 
 用Git 下载主干上的代码时报错:
 翻译成中文:因为没有合并文件，拖动是不可能的。因为一个未解决的冲突而退出。
 
