@@ -13,3 +13,9 @@ https://zhuanlan.zhihu.com/p/23167699
 还不会使用 GitHub ？ GitHub 教程来了！万字图文详解 - GitHubPorn的文章 - 知乎
 https://zhuanlan.zhihu.com/p/369486197
 
+#3 添加到远程库
+$ git add .
+$ git commit -m "new file"
+$ git push origin master
+
+
