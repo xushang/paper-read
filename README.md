@@ -13,6 +13,14 @@ https://zhuanlan.zhihu.com/p/23167699
 还不会使用 GitHub ？ GitHub 教程来了！万字图文详解 - GitHubPorn的文章 - 知乎
 https://zhuanlan.zhihu.com/p/369486197
 
+
+#3 添加到远程库
+$ git add .
+$ git commit -m "new file"
+$ git push origin master
+
+
+
 #3 
 用Git 下载主干上的代码时报错:
 翻译成中文:因为没有合并文件，拖动是不可能的。因为一个未解决的冲突而退出。
@@ -29,3 +37,4 @@ git reset –hard FETCH_HEAD
 ————————————————
 版权声明：本文为CSDN博主「柠檬草。」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/yyx3214/article/details/81261733
+
