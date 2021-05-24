@@ -44,3 +44,40 @@
   year={2017},
   publisher={Society of Exploration Geophysicists}
 }
+
+#date:2021.05.16
+@article{wang2013improved,
+  title={Improved hybrid iterative optimization method for seismic full waveform inversion},
+  author={Wang, Yi and Dong, Liang-Guo and Liu, Yu-Zhu},
+  journal={Applied Geophysics},
+  volume={10},
+  number={3},
+  pages={265--277},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{wang20162d,
+  title={2D frequency-domain elastic full-waveform inversion using the block-diagonal pseudo-Hessian approximation},
+  author={Wang, Yuwei and Dong, Liangguo and Liu, Yuzhu and Yang, Jizhong},
+  journal={Geophysics},
+  volume={81},
+  number={5},
+  pages={R247--R259},
+  year={2016},
+  publisher={Society of Exploration Geophysicists}
+}
+
+#date:2021.05.24
+
+@article{hauptmann2021fusing,
+  title={Fusing electrical and elasticity imaging},
+  author={Hauptmann, Andreas and Smyl, Danny},
+  journal={Philosophical Transactions of the Royal Society A},
+  volume={379},
+  number={2200},
+  pages={20200194},
+  year={2021},
+  publisher={The Royal Society Publishing}
+}
+
