@@ -67,3 +67,16 @@
   year={2016},
   publisher={Society of Exploration Geophysicists}
 }
+
+#date:2021.05.24
+
+@article{hauptmann2021fusing,
+  title={Fusing electrical and elasticity imaging},
+  author={Hauptmann, Andreas and Smyl, Danny},
+  journal={Philosophical Transactions of the Royal Society A},
+  volume={379},
+  number={2200},
+  pages={20200194},
+  year={2021},
+  publisher={The Royal Society Publishing}
+}
