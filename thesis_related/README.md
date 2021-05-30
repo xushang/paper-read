@@ -83,3 +83,25 @@
 
 https://github.com/asHauptmann/fused_EIT-QSEI
 
+#date:2021.05.28
+@article{de2018nonlinearly,
+  title={Nonlinearly preconditioned L-BFGS as an acceleration mechanism for alternating least squares with application to tensor decomposition},
+  author={De Sterck, Hans and Howse, Alexander JM},
+  journal={Numerical Linear Algebra with Applications},
+  volume={25},
+  number={6},
+  pages={e2202},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{tsai2017fast,
+  title={Fast quasi-Newton algorithms for penalized reconstruction in emission tomography and further improvements via preconditioning},
+  author={Tsai, Yu-Jung and Bousse, Alexandre and Ehrhardt, Matthias J and Stearns, Charles W and Ahn, Sangtae and Hutton, Brian F and Arridge, Simon and Thielemans, Kris},
+  journal={IEEE transactions on medical imaging},
+  volume={37},
+  number={4},
+  pages={1000--1010},
+  year={2017},
+  publisher={IEEE}
+}
